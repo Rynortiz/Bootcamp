@@ -1,5 +1,5 @@
 let COISAS = "LEGAIS"
-let num = 22;
+let num = 20;
 let cu;
-cu = num + 3;
+cu = num + 6;
 console.log(cu);
